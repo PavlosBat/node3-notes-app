@@ -42,7 +42,7 @@ yargs.command({
     }
 })
 
-// List command
+// List cmd
 yargs.command({
     command: 'list',
     describe: 'List of notes',
